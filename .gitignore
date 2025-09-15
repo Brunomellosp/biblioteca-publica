@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+venv/
+.venv/
+.env.*
+*.db
+
+# FastAPI uploads
+uploads/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
